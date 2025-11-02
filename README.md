@@ -1,6 +1,5 @@
-# HGL Documentation
+# UseCode.dev
 
-This repository contains the documentation for HGL - The Last Software License.
 
 ## Building the Documentation
 
