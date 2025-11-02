@@ -7,4 +7,5 @@ Welcome to the HGL documentation.
 :caption: Contents
 
 principles/hgl
+principles/btc
 ```
