@@ -1,4 +1,4 @@
-# UseCode .Dev
+# Resistance and/or Tech
 > They reset us every day, we reset them forever. We build resistance and/or tech.
 
 The idea is that I do not need to develop a technology that I am not a user of and/or I am not a user of a technology that I do not contribute to.

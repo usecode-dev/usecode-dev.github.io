@@ -16,7 +16,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 html_theme = 'furo'
 html_static_path = ['_static']
-html_title = "Use is Dev (and must be)"
+html_title = "Use Code Dev"
 
 # Furo theme options
 html_theme_options = {
