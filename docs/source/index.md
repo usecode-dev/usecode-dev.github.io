@@ -16,4 +16,5 @@ We need to foster use and development of technologies that align with UseCode .D
 
 principles/hgl
 principles/btc
+principles/privacy
 ```
