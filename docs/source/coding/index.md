@@ -25,9 +25,15 @@ For single core performance optimization, C is more competent compared to Go. Bu
 
 There would be one question left! How if to use Rust to replace C/Zig/Go/Python/JavaScript? We still need JavaScript for DOM manipulation in the browser. Python's ecosystem still prefer using Python instead of Rust, Python is more readable for more users than Rust. We are going to need C to maintain existing C libraries and C is more flexible for low level programming. Go is way easier to use for the purpose we added to the stack compared to Rust and efficient enough for IO bound tasks. The only candidate to use Rust is a replacement for Zig. But Zig is closer to C and leaner compared to Rust for the purpose added to the stack. Therefore, Rust is not a good fit for UseCode .Dev stack. We typically do not need to wait for libraries being available using Zig, C libraries are typically ready to bind to Zig and many of them are stable enough to use directly. Therefore, C/Zig/Go/Python/JavaScript should be the languages to master in UseCode .Dev.
 
-## Summary
-- Start with Python as it is easy to learn and versatile.
-- Learn JavaScript for web front-end development.
+## Recommended Learning Path
+- Use Python to get stuff Done. Automate your tasks, create APIs, work with databases and files, and build web applications with minimal front-end code.
+- Learn HTML/CSS to fill all screens. You ideally need no JavaScript.
 - Learn C for low-level programming and performance-critical applications.
 - Learn Go for concurrent programming and network services.
 - learn Zig for single core performance optimization and using C libraries more conveniently and as a replacement for C++.
+
+Note: Probably Go is not needed soon when Zig gets better support for concurrency and async programming. And assuming you use existing C libraries, Existing HTML elements for your Jinja2 templates, it is only Python and Zig most probably to master UseCode .Dev.
+
+In case you are going to zero down to just one language, you are going to only need Zig. Therefore we are going to maximize the usage of Zig in UseCode .Dev and minimize the usage of other languages except where Python is more convenient.
+
+And of course Bash scripts to glue everything together!
