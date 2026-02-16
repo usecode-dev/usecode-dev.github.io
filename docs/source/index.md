@@ -1,8 +1,11 @@
 # Software and/or Resilience
 > They debase us every day. We build resilience and/or software!
-> You still need to care about the software if not resilience!
-> As a user and as a developer.
 > 
+> We and them both lose, they lose to win us, we win to lose them!
+>
+> You may ignore resilience at your own cost, but neither you nor them can possibly ignore competitive useful software at somebody else's cost! You know, they know and we know.
+> We talk with them again, when they wake up!
+>
 > -- Hamed Ghasemzadeh
 
 You do not develop a "technology" that you do not use! And you do not use a "technology" that you do not develop! This is our core principle, the core principle of UseCode .Dev.
