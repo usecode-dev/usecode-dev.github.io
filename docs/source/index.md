@@ -29,6 +29,7 @@ principles/hgl
 principles/btc
 principles/privacy
 principles/code
+principles/full_box
 
 coding/index
 ```
