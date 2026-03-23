@@ -4,8 +4,7 @@
 > We and them both lose, they lose to win us, we win to lose them!
 >
 > You may ignore resilience at your own cost, but neither you nor them can possibly ignore competitive useful software at somebody else's cost! You know, they know and we know.
->
-> They don't find any fight more painful than fighting with their ultimate supporter and their ultimate owner. Because they need to remove the one who has no security except receiving from them in code! Even the evil needs a residence to do that.
+> Even the evil needs a permanent residence to do that!
 >
 > -- Hamed Ghasemzadeh
 
