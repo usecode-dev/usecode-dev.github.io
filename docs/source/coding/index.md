@@ -32,7 +32,9 @@ There would be one question left! How if to use Rust to replace C/Zig/Go/Python/
 - Learn Go for concurrent programming and network services.
 - learn Zig for single core performance optimization and using C libraries more conveniently and as a replacement for C++.
 
-Note: Probably Go is not needed soon when Zig gets better support for concurrency and async programming. And assuming you use existing C libraries, Existing HTML elements for your Jinja2 templates, it is only Python and Zig most probably to master UseCode .Dev.
+Note: Probably Go is not needed soon when Zig gets better support for concurrency and async programming. And assuming you use existing C libraries, Existing HTML elements for your Jinja2 templates, it is only Python and Zig most probably to master UseCode .Dev
+
+Note: Rust has been used for many dev tools even in Python ecosystem. In principle we should be able to develop Rust while using these tools before we can replace them with Zig. The same argument for C++ utilities like Chrome. But these two are kind of legacy for the purpose of UseCode .Dev.
 
 In case you are going to zero down to just one language, you are going to only need Zig. Therefore we are going to maximize the usage of Zig in UseCode .Dev and minimize the usage of other languages except where Python is more convenient.
 
