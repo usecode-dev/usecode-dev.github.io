@@ -29,6 +29,7 @@ principles/btc
 principles/privacy
 principles/code
 principles/full_box
+principles/protocol
 
 coding/index
 ```
