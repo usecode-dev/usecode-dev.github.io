@@ -35,6 +35,6 @@ There would be one question left! How if to use Rust to replace C/Zig/Go/Python/
 - learn Zig for single core performance optimization and using C libraries more conveniently and as a replacement for C++.
 - And of course Bash scripts to glue everything together!
 
-Note: Probably Go is not needed soon when Zig gets better support for concurrency, async programming, stable API and community. And assuming you use existing C ecosystem, it is only Python and Zig most ideally to master UseCode .Dev. In case you are going to zero down to just one language, you are going to only need Zig. Therefore we are going to maximize the usage of Zig in UseCode .Dev and minimize the usage of other languages except where Python is more convenient. Ideally you are not going to need anything than Zig to do everything.
+Note: Probably Go is not needed soon when Zig gets better support for concurrency, async programming, stable API and community. And assuming you use existing C ecosystem, it is only Python and Zig most ideally to master UseCode .Dev. In case you are going to zero down to just one language, you are going to only need Zig. Therefore we are going to maximize the usage of Zig in UseCode .Dev and minimize the usage of other languages except where Python is more convenient. Ideally you are not going to need anything than Zig/Bash/Browser to do everything.
 
 
