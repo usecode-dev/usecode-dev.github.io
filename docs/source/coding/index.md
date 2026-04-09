@@ -1,5 +1,7 @@
 # Coding
 
+> Any programming language that is not used to develop the interpreter/compiler and the tool chain of that language is already dead!
+
 If you use command line to perform your work, you will realize that it is much easier to automate repetitive tasks by writing small scripts.
 That script is a function which saves you writing repeated commands. And that is all about programming, making functions to save time.
 
